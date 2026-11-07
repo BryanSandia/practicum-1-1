@@ -1,0 +1,16 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos compilados o de entorno
+*.class
+target/
+.env
+data/raw/*.csv
+data/raw/*.csv
